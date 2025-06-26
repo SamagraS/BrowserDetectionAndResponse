@@ -1,6 +1,8 @@
 🔍 Project Summary: Real-Time Browser History Analysis & Threat Detection
 This project is a Python-based tool that monitors Chrome browser history in real time, performs static analysis on visited URLs, flags potentially malicious or suspicious activity, and captures screenshots of dangerous pages for documentation or forensic analysis.
 
+IMPORTANT - Check Master Branch for full project files.
+
 ⚙️ Key Features
 Live browser history monitoring while Chrome is running.
 
